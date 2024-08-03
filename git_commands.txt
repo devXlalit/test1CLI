@@ -1,0 +1,17 @@
+Generate the Github account.
+Through GUI mode - 
+Step 1 - Create reposetory. name it, add readme file.
+Step 2 - Click on add files
+Step 3 - share your code usign the green code button link.
+
+Through CLI mode - 
+Step 1 - Create reposetory. name it.
+Step 2 - Download git.
+Step 3 - go to vs code and click ctrl+` or open the terminal.
+Step 4 - Follow the cli instruction given in the repo github, just change 2 things ignore first line, git add .
+
+
+Updating -
+1. git add .
+2. git commit -m "update" 
+3. git push
